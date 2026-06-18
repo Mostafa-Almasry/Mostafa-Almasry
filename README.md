@@ -5,6 +5,12 @@
 </h3>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+</p>
+
+<p align="center">
   <a href="https://eg.linkedin.com/in/mostafa2lmasry">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -17,7 +23,7 @@
 
 ### 🚀 Featured Work
 
-**[Alzien Cars](https://eg.linkedin.com/in/mostafa2lmasry)** — Car marketplace app for the Sudanese market
+**Alzien Cars** — Car marketplace app for the Sudanese market
 - Built the full mobile app in Flutter — authentication, listings, search, dealer profiles, wishlist, notifications
 - Live on the App Store and Google Play with **50,000+ users**
 - *(Private repo — client project)*
@@ -26,6 +32,7 @@
 - Investor-facing mobile prototype for a digital payments concept
 - Redesigned UI for home/balance, transactions, QR payments, and cards
 - *(Private repo — confidential client project)*
+
 
 ---
 
