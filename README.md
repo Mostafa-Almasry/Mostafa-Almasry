@@ -44,15 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Almasry&show_icons=true&theme=default&hide_border=true&title_color=2E5395&icon_color=2E5395" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Almasry&hide_border=true&background=FFFFFF&ring=2E5395&fire=2E5395&currStreakLabel=2E5395" width="48%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm currently open to **remote Flutter / mobile developer roles**. Feel free to reach out on [LinkedIn](https://eg.linkedin.com/in/mostafa2lmasry) or via [email](mailto:mostafamialmasry@gmail.com).
