@@ -61,7 +61,7 @@
 **Real-time:** WebSocket · Socket.IO  
 **Storage & Sync:** Hive · SQLite · offline-first sync  
 **Monetization & AI:** RevenueCat · Apple IAP · Google Play Billing · Google Gemini  
-**Testing & Quality:** Unit testing (flutter_test) · Sentry crash monitoring  
+**Testing & Quality:** Unit testing · Sentry crash monitoring  
 **Localization:** Arabic (RTL) · English · French
 
 ---
